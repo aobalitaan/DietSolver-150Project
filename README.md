@@ -1,6 +1,6 @@
-# DietSolver: A Web App for Solving Diet Problems
+# DietSolver_150Project
 
-DietSolver is a web app that helps users solve diet problems using linear programming. It allows users to input their own data or use a predefined database, and it displays the optimal solution and the graphical representation of the feasible region.
+This website is a final project for the course CMSC 150. It is built with R and Rshiny, and it provides four simple tools: Home, Spline Solver, Regression Solver, and Diet Solver.
 
 ## Features
 
@@ -9,4 +9,6 @@ DietSolver is a web app that helps users solve diet problems using linear progra
 - Provides four main pages: Home, Spline Solver, Regression Solver, Diet Solver
 - Performs quadratic spline interpolation, polynomial regression, and simplex minimization
 - Accepts CSV files as input
-- Generates interactive plots using Plotly
+
+## Contributing
+This project was created as a final requirement for the course CMSC 150 at the University of the Philippines Los Banos.
